@@ -1,0 +1,151 @@
+code,patient_code,medecin_matricule,date_heure,motif,diagnostic,statut
+CONS-0001,PAT-0042,MED-014,2025-11-26T09:45:00.000Z,Hypertension,,annulée
+CONS-0002,PAT-0031,MED-004,2026-09-13T12:45:00.000Z,Suivi de grossesse,Infection urinaire,effectuée
+CONS-0003,PAT-0018,MED-013,2026-05-07T11:15:00.000Z,Maux de tête,,annulée
+CONS-0004,PAT-0038,MED-011,2025-04-12T12:30:00.000Z,Suivi de grossesse,Hypertension artérielle,effectuée
+CONS-0005,PAT-0021,MED-014,2026-03-29T13:45:00.000Z,Diabète,Rien à signaler,effectuée
+CONS-0006,PAT-0048,MED-008,2026-05-07T11:45:00.000Z,Contrôle de routine,Migraine,effectuée
+CONS-0007,PAT-0038,MED-006,2026-08-30T08:15:00.000Z,Fièvre typhoïde,Grossesse normale,effectuée
+CONS-0008,PAT-0027,MED-014,2026-09-30T15:00:00.000Z,Problème de peau,Hypertension artérielle,effectuée
+CONS-0009,PAT-0026,MED-011,2026-08-03T12:30:00.000Z,Fièvre typhoïde,Gastrite,effectuée
+CONS-0010,PAT-0016,MED-011,2026-08-22T16:00:00.000Z,Problème de peau,Bronchite,effectuée
+CONS-0011,PAT-0046,MED-014,2025-07-11T14:00:00.000Z,Fièvre typhoïde,Grossesse normale,effectuée
+CONS-0012,PAT-0004,MED-005,2026-02-10T08:00:00.000Z,Douleurs abdominales,Gastrite,effectuée
+CONS-0013,PAT-0051,MED-003,2025-12-16T16:45:00.000Z,Hypertension,Hypertension artérielle,effectuée
+CONS-0014,PAT-0010,MED-004,2026-05-06T11:45:00.000Z,Suivi de grossesse,,annulée
+CONS-0015,PAT-0044,MED-009,2025-12-27T08:45:00.000Z,Hypertension,,annulée
+CONS-0016,PAT-0028,MED-012,2026-07-06T13:30:00.000Z,Toux persistante,Grossesse normale,effectuée
+CONS-0017,PAT-0037,MED-006,2026-05-08T15:00:00.000Z,Blessure,Bronchite,effectuée
+CONS-0018,PAT-0044,MED-013,2026-05-20T12:00:00.000Z,Contrôle de routine,Paludisme simple,effectuée
+CONS-0019,PAT-0013,MED-010,2026-01-28T11:30:00.000Z,Toux persistante,Eczéma,effectuée
+CONS-0020,PAT-0003,MED-010,2025-07-18T08:30:00.000Z,Douleurs abdominales,Rien à signaler,effectuée
+CONS-0021,PAT-0012,MED-004,2025-07-11T12:30:00.000Z,Hypertension,Infection urinaire,effectuée
+CONS-0022,PAT-0019,MED-012,2025-09-25T12:45:00.000Z,Douleurs abdominales,,annulée
+CONS-0023,PAT-0015,MED-014,2026-08-02T09:15:00.000Z,Problème de peau,Rien à signaler,effectuée
+CONS-0024,PAT-0001,MED-005,2026-11-01T13:00:00.000Z,Infection urinaire,,prévue
+CONS-0025,PAT-0053,MED-011,2026-07-19T13:30:00.000Z,Douleurs abdominales,Typhoïde,effectuée
+CONS-0026,PAT-0015,MED-011,2025-05-05T16:30:00.000Z,Fièvre typhoïde,,annulée
+CONS-0027,PAT-0003,MED-005,2026-02-13T14:00:00.000Z,Suivi de grossesse,Typhoïde,effectuée
+CONS-0028,PAT-0024,MED-011,2025-12-06T16:15:00.000Z,Contrôle de routine,Rien à signaler,effectuée
+CONS-0029,PAT-0040,MED-007,2025-09-15T14:00:00.000Z,Toux persistante,Paludisme simple,effectuée
+CONS-0030,PAT-0007,MED-011,2026-07-08T15:15:00.000Z,Douleurs abdominales,,annulée
+CONS-0031,PAT-0055,MED-014,2026-05-22T12:15:00.000Z,Suivi de grossesse,,annulée
+CONS-0032,PAT-0016,MED-003,2025-11-13T08:00:00.000Z,Blessure,Diabète de type 2,effectuée
+CONS-0033,PAT-0015,MED-006,2026-10-29T11:15:00.000Z,Hypertension,,prévue
+CONS-0034,PAT-0008,MED-011,2025-09-05T10:30:00.000Z,Paludisme,Hypertension artérielle,effectuée
+CONS-0035,PAT-0017,MED-001,2026-04-11T11:30:00.000Z,Hypertension,Rien à signaler,effectuée
+CONS-0036,PAT-0033,MED-010,2025-06-14T15:45:00.000Z,Fièvre typhoïde,Grossesse normale,effectuée
+CONS-0037,PAT-0002,MED-001,2025-05-24T16:30:00.000Z,Suivi de grossesse,Migraine,effectuée
+CONS-0038,PAT-0021,MED-010,2026-08-25T15:00:00.000Z,Hypertension,,annulée
+CONS-0039,PAT-0039,MED-009,2025-08-17T12:30:00.000Z,Toux persistante,Grossesse normale,effectuée
+CONS-0040,PAT-0057,MED-004,2025-08-05T16:15:00.000Z,Maux de tête,Gastrite,effectuée
+CONS-0041,PAT-0043,MED-005,2026-06-09T09:30:00.000Z,Douleurs abdominales,Hypertension artérielle,effectuée
+CONS-0042,PAT-0048,MED-012,2025-07-12T09:00:00.000Z,Douleurs abdominales,Hypertension artérielle,effectuée
+CONS-0043,PAT-0043,MED-013,2026-03-13T09:45:00.000Z,Maux de tête,Rien à signaler,effectuée
+CONS-0044,PAT-0033,MED-004,2026-01-29T12:30:00.000Z,Hypertension,Eczéma,effectuée
+CONS-0045,PAT-0018,MED-010,2025-07-29T13:30:00.000Z,Diabète,Migraine,effectuée
+CONS-0046,PAT-0049,MED-005,2026-01-08T08:15:00.000Z,Douleurs abdominales,Gastrite,effectuée
+CONS-0047,PAT-0048,MED-011,2025-10-12T10:45:00.000Z,Paludisme,Typhoïde,effectuée
+CONS-0048,PAT-0020,MED-012,2026-06-13T15:30:00.000Z,Douleurs abdominales,Plaie simple,effectuée
+CONS-0049,PAT-0018,MED-008,2025-09-16T10:00:00.000Z,Problème de peau,Migraine,effectuée
+CONS-0050,PAT-0008,MED-006,2026-06-08T12:15:00.000Z,Maux de tête,Typhoïde,effectuée
+CONS-0051,PAT-0039,MED-001,2026-10-01T12:00:00.000Z,Paludisme,Diabète de type 2,effectuée
+CONS-0052,PAT-0001,MED-008,2025-08-28T12:30:00.000Z,Contrôle de routine,Migraine,effectuée
+CONS-0053,PAT-0054,MED-011,2025-08-20T14:15:00.000Z,Douleurs abdominales,Typhoïde,effectuée
+CONS-0054,PAT-0056,MED-006,2026-06-30T08:45:00.000Z,Blessure,,annulée
+CONS-0055,PAT-0021,MED-003,2026-06-11T12:00:00.000Z,Blessure,Grossesse normale,effectuée
+CONS-0056,PAT-0026,MED-009,2026-07-01T09:15:00.000Z,Fièvre typhoïde,Migraine,effectuée
+CONS-0057,PAT-0041,MED-002,2025-11-22T13:15:00.000Z,Infection urinaire,Infection urinaire,effectuée
+CONS-0058,PAT-0010,MED-005,2026-04-02T13:15:00.000Z,Diabète,Hypertension artérielle,effectuée
+CONS-0059,PAT-0037,MED-013,2025-06-26T10:45:00.000Z,Blessure,Grossesse normale,effectuée
+CONS-0060,PAT-0029,MED-011,2026-02-27T10:45:00.000Z,Toux persistante,Bronchite,effectuée
+CONS-0061,PAT-0003,MED-001,2026-09-11T09:30:00.000Z,Douleurs abdominales,Bronchite,effectuée
+CONS-0062,PAT-0036,MED-013,2025-07-11T16:45:00.000Z,Contrôle de routine,Paludisme simple,effectuée
+CONS-0063,PAT-0029,MED-002,2026-03-05T15:15:00.000Z,Douleurs abdominales,,annulée
+CONS-0064,PAT-0029,MED-009,2025-10-03T08:15:00.000Z,Infection urinaire,Plaie simple,effectuée
+CONS-0065,PAT-0050,MED-006,2026-04-17T13:30:00.000Z,Problème de peau,Plaie simple,effectuée
+CONS-0066,PAT-0044,MED-007,2026-03-18T09:30:00.000Z,Toux persistante,Bronchite,effectuée
+CONS-0067,PAT-0042,MED-012,2025-07-02T10:30:00.000Z,Problème de peau,Migraine,effectuée
+CONS-0068,PAT-0022,MED-014,2025-07-05T12:45:00.000Z,Hypertension,Eczéma,effectuée
+CONS-0069,PAT-0020,MED-003,2026-06-17T16:30:00.000Z,Diabète,Gastrite,effectuée
+CONS-0070,PAT-0055,MED-013,2025-11-27T10:15:00.000Z,Fièvre typhoïde,Infection urinaire,effectuée
+CONS-0071,PAT-0012,MED-014,2026-03-20T10:45:00.000Z,Contrôle de routine,Plaie simple,effectuée
+CONS-0072,PAT-0047,MED-004,2026-07-02T08:45:00.000Z,Suivi de grossesse,Plaie simple,effectuée
+CONS-0073,PAT-0052,MED-013,2025-12-05T16:15:00.000Z,Suivi de grossesse,Diabète de type 2,effectuée
+CONS-0074,PAT-0027,MED-003,2026-07-26T12:45:00.000Z,Diabète,Plaie simple,effectuée
+CONS-0075,PAT-0036,MED-015,2025-12-22T08:45:00.000Z,Fièvre typhoïde,,annulée
+CONS-0076,PAT-0033,MED-003,2025-07-04T10:30:00.000Z,Maux de tête,Typhoïde,effectuée
+CONS-0077,PAT-0026,MED-009,2026-07-15T13:00:00.000Z,Douleurs abdominales,Diabète de type 2,effectuée
+CONS-0078,PAT-0007,MED-014,2026-04-28T11:00:00.000Z,Contrôle de routine,Eczéma,effectuée
+CONS-0079,PAT-0031,MED-012,2025-08-28T08:30:00.000Z,Hypertension,,annulée
+CONS-0080,PAT-0054,MED-003,2025-04-15T09:00:00.000Z,Infection urinaire,Rien à signaler,effectuée
+CONS-0081,PAT-0016,MED-007,2026-01-30T11:30:00.000Z,Problème de peau,Plaie simple,effectuée
+CONS-0082,PAT-0037,MED-004,2025-08-01T15:00:00.000Z,Contrôle de routine,Hypertension artérielle,effectuée
+CONS-0083,PAT-0012,MED-011,2025-04-11T13:15:00.000Z,Problème de peau,Typhoïde,effectuée
+CONS-0084,PAT-0031,MED-001,2026-09-30T16:00:00.000Z,Problème de peau,Migraine,effectuée
+CONS-0085,PAT-0047,MED-011,2025-04-26T13:00:00.000Z,Problème de peau,Typhoïde,effectuée
+CONS-0086,PAT-0012,MED-014,2025-05-25T13:30:00.000Z,Problème de peau,Grossesse normale,effectuée
+CONS-0087,PAT-0030,MED-001,2025-10-13T10:00:00.000Z,Toux persistante,Diabète de type 2,effectuée
+CONS-0088,PAT-0033,MED-007,2025-10-31T08:30:00.000Z,Infection urinaire,,annulée
+CONS-0089,PAT-0050,MED-001,2025-05-17T11:30:00.000Z,Problème de peau,Gastrite,effectuée
+CONS-0090,PAT-0058,MED-007,2026-04-21T14:45:00.000Z,Douleurs abdominales,Hypertension artérielle,effectuée
+CONS-0091,PAT-0047,MED-007,2026-04-21T16:30:00.000Z,Fièvre typhoïde,Migraine,effectuée
+CONS-0092,PAT-0043,MED-005,2026-02-04T13:00:00.000Z,Toux persistante,Grossesse normale,effectuée
+CONS-0093,PAT-0056,MED-015,2026-07-08T13:45:00.000Z,Douleurs abdominales,Plaie simple,effectuée
+CONS-0094,PAT-0052,MED-012,2025-06-07T09:45:00.000Z,Problème de peau,Hypertension artérielle,effectuée
+CONS-0095,PAT-0016,MED-013,2025-09-03T15:00:00.000Z,Problème de peau,Gastrite,effectuée
+CONS-0096,PAT-0024,MED-008,2025-05-13T10:45:00.000Z,Fièvre typhoïde,,annulée
+CONS-0097,PAT-0016,MED-002,2026-04-20T14:30:00.000Z,Paludisme,Rien à signaler,effectuée
+CONS-0098,PAT-0008,MED-005,2026-09-03T16:45:00.000Z,Toux persistante,,annulée
+CONS-0099,PAT-0055,MED-002,2026-01-27T15:15:00.000Z,Suivi de grossesse,Hypertension artérielle,effectuée
+CONS-0100,PAT-0019,MED-015,2026-03-03T13:00:00.000Z,Toux persistante,Hypertension artérielle,effectuée
+CONS-0101,PAT-0013,MED-013,2026-04-15T16:15:00.000Z,Hypertension,Diabète de type 2,effectuée
+CONS-0102,PAT-0036,MED-003,2026-04-14T16:30:00.000Z,Blessure,Typhoïde,effectuée
+CONS-0103,PAT-0050,MED-007,2026-02-20T14:45:00.000Z,Blessure,Typhoïde,effectuée
+CONS-0104,PAT-0034,MED-006,2026-02-28T09:45:00.000Z,Hypertension,Infection urinaire,effectuée
+CONS-0105,PAT-0034,MED-003,2025-08-20T14:00:00.000Z,Toux persistante,Hypertension artérielle,effectuée
+CONS-0106,PAT-0034,MED-015,2026-03-06T11:30:00.000Z,Toux persistante,,annulée
+CONS-0107,PAT-0020,MED-010,2025-12-22T11:30:00.000Z,Infection urinaire,Typhoïde,effectuée
+CONS-0108,PAT-0037,MED-001,2025-09-14T10:30:00.000Z,Paludisme,Typhoïde,effectuée
+CONS-0109,PAT-0002,MED-008,2026-01-06T11:45:00.000Z,Problème de peau,Infection urinaire,effectuée
+CONS-0110,PAT-0005,MED-012,2026-08-17T11:45:00.000Z,Paludisme,Hypertension artérielle,effectuée
+CONS-0111,PAT-0010,MED-006,2026-08-18T15:15:00.000Z,Contrôle de routine,Gastrite,effectuée
+CONS-0112,PAT-0030,MED-002,2025-08-21T13:00:00.000Z,Toux persistante,Grossesse normale,effectuée
+CONS-0113,PAT-0025,MED-014,2025-09-01T09:00:00.000Z,Blessure,Migraine,effectuée
+CONS-0114,PAT-0011,MED-008,2025-09-20T13:30:00.000Z,Infection urinaire,Grossesse normale,effectuée
+CONS-0115,PAT-0033,MED-008,2026-09-01T08:00:00.000Z,Diabète,,annulée
+CONS-0116,PAT-0039,MED-015,2026-04-06T08:00:00.000Z,Problème de peau,Eczéma,effectuée
+CONS-0117,PAT-0057,MED-005,2026-10-11T08:00:00.000Z,Contrôle de routine,,prévue
+CONS-0118,PAT-0036,MED-004,2026-04-19T08:45:00.000Z,Douleurs abdominales,Infection urinaire,effectuée
+CONS-0119,PAT-0018,MED-014,2026-05-10T16:45:00.000Z,Blessure,Eczéma,effectuée
+CONS-0120,PAT-0022,MED-009,2025-07-18T14:30:00.000Z,Douleurs abdominales,Hypertension artérielle,effectuée
+CONS-0121,PAT-0009,MED-012,2026-09-13T14:00:00.000Z,Douleurs abdominales,Grossesse normale,effectuée
+CONS-0122,PAT-0021,MED-003,2026-09-19T10:30:00.000Z,Maux de tête,,annulée
+CONS-0123,PAT-0020,MED-008,2026-03-20T16:45:00.000Z,Paludisme,Gastrite,effectuée
+CONS-0124,PAT-0017,MED-011,2026-06-10T12:00:00.000Z,Blessure,Plaie simple,effectuée
+CONS-0125,PAT-0047,MED-010,2025-06-01T15:15:00.000Z,Maux de tête,Hypertension artérielle,effectuée
+CONS-0126,PAT-0027,MED-003,2025-07-31T11:00:00.000Z,Maux de tête,Rien à signaler,effectuée
+CONS-0127,PAT-0048,MED-012,2026-06-04T16:45:00.000Z,Paludisme,,annulée
+CONS-0128,PAT-0031,MED-009,2025-11-08T16:30:00.000Z,Maux de tête,,annulée
+CONS-0129,PAT-0044,MED-013,2026-07-24T16:30:00.000Z,Contrôle de routine,Eczéma,effectuée
+CONS-0130,PAT-0020,MED-004,2026-08-18T11:15:00.000Z,Toux persistante,Bronchite,effectuée
+CONS-0131,PAT-0060,MED-015,2026-08-23T13:45:00.000Z,Contrôle de routine,Bronchite,effectuée
+CONS-0132,PAT-0050,MED-013,2026-10-18T14:45:00.000Z,Hypertension,,prévue
+CONS-0133,PAT-0042,MED-005,2026-01-29T09:30:00.000Z,Contrôle de routine,,annulée
+CONS-0134,PAT-0045,MED-005,2025-11-02T16:30:00.000Z,Hypertension,,annulée
+CONS-0135,PAT-0034,MED-004,2025-12-11T11:00:00.000Z,Problème de peau,Diabète de type 2,effectuée
+CONS-0136,PAT-0007,MED-011,2025-07-21T14:30:00.000Z,Hypertension,Paludisme simple,effectuée
+CONS-0137,PAT-0019,MED-006,2026-08-10T15:15:00.000Z,Toux persistante,Eczéma,effectuée
+CONS-0138,PAT-0012,MED-007,2025-07-10T11:00:00.000Z,Hypertension,,annulée
+CONS-0139,PAT-0056,MED-015,2026-05-21T15:15:00.000Z,Toux persistante,,annulée
+CONS-0140,PAT-0022,MED-005,2025-04-19T12:00:00.000Z,Suivi de grossesse,,annulée
+CONS-0141,PAT-0008,MED-006,2026-09-08T15:30:00.000Z,Hypertension,Rien à signaler,effectuée
+CONS-0142,PAT-0037,MED-011,2025-10-17T08:30:00.000Z,Diabète,Hypertension artérielle,effectuée
+CONS-0143,PAT-0043,MED-002,2026-06-21T16:30:00.000Z,Hypertension,Hypertension artérielle,effectuée
+CONS-0144,PAT-0029,MED-013,2025-12-20T08:30:00.000Z,Toux persistante,Gastrite,effectuée
+CONS-0145,PAT-0008,MED-008,2026-01-02T13:15:00.000Z,Toux persistante,Hypertension artérielle,effectuée
+CONS-0146,PAT-0015,MED-003,2025-08-08T12:30:00.000Z,Suivi de grossesse,Hypertension artérielle,effectuée
+CONS-0147,PAT-0052,MED-011,2026-06-09T16:45:00.000Z,Diabète,Diabète de type 2,effectuée
+CONS-0148,PAT-0037,MED-002,2026-07-11T16:30:00.000Z,Paludisme,Infection urinaire,effectuée
+CONS-0149,PAT-0034,MED-008,2026-10-11T10:15:00.000Z,Fièvre typhoïde,,prévue
+CONS-0150,PAT-0030,MED-003,2026-08-23T09:45:00.000Z,Infection urinaire,Migraine,effectuée
